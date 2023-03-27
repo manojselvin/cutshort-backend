@@ -1,0 +1,4 @@
+phases:
+  build:
+    commands:
+      - tsc --project tsconfig.build.json
