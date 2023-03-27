@@ -16,3 +16,10 @@ To Test the application run the following command
 ```
 npm test
 ```
+
+## For API Documentation and examples
+
+import the following file in postman
+```
+Cutshort Collection.postman_collection.json
+```
